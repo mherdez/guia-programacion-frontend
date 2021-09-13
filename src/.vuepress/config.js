@@ -34,11 +34,12 @@ module.exports = {
     ],
     sidebar: [
       '/',
-      // '/00-markdown/',
       '/01-html/',
       '/01-ejercicios-html/',
+      '/04-desafios/'
+      // '/00-markdown/',
       // '/02-css/',
-      // '/03-javascript/'
+      // '/03-javascript/',
     ]
   },
 
