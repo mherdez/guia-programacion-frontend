@@ -34,7 +34,7 @@ module.exports = {
     ],
     sidebar: [
       '/',
-      '/00-markdown/',
+      // '/00-markdown/',
       '/01-html/',
       '/01-ejercicios-html/',
       // '/02-css/',
