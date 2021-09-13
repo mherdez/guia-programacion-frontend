@@ -58,22 +58,24 @@ La parte visible del documento HTML está entre `<body>` y `</body>`.
 ~~~html
 <!DOCTYPE html>
 <html>
-<body>
+  <head>
+    <title>Mi primera página web</title>
+  </head>
 
-<h1>Mi primer encabezado</h1>
-<p>Mi primer párrafo</p>
-
-</body>
+  <body>
+    <h1>Mi primer encabezado</h1>
+    <p>Mi primer párrafo</p>
+  </body>
 </html>
 ~~~
 :::tip NOTA
 En general, todo elemento puede ser anidado, convertirse en un contenedor o ser contenido por otros elementos. Los elementos exclusivamente estructurales como `<html>`, `<head>` y `<body>` tienen un lugar específico en un documento HTML, pero el resto son flexibles.
 :::
-
+<!-- 
 :::tip NOTA
 Los atributos se declaran siempre dentro de la etiqueta de apertura (o etiquetas individuales) y pueden tener una estructura que incluye un nombre y un valor, como el atributo lang de la etiqueta `<html>`, o representar un valor por sí mismos, como el atributo html de la etiqueta `<!DOCTYPE>`. 
-:::
-
+::: -->
+<!-- 
 ### Tipo de documento
 ### Elementos estructurales 
 ### Atributos globales 
@@ -89,6 +91,6 @@ Los atributos se declaran siempre dentro de la etiqueta de apertura (o etiquetas
 ### Definición 
 ### Elementos 
 ### Enviando el formulario 
-### Atributos globales 
+### Atributos globales  -->
 
 
