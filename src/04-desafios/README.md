@@ -1,4 +1,4 @@
-# DESAFÍOS 
+# Desafíos Frontend Mentor
 
 ## :thumbsup: [Newbie](https://www.frontendmentor.io/challenges?difficulties=1&types=free)
 ### [1. Order summary component](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj)
