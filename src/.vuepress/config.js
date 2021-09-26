@@ -30,16 +30,22 @@ module.exports = {
       {
         text: 'Javascript',
         link: 'https://www.w3schools.com/js/default.asp'
-      }
+      },
+      // {
+      //   text: 'Desafíos Newbie paso a paso',
+      //   link: 'https://mherdez.github.io/guia-desafios-frontend-mentor/newbie/'
+      // }
     ],
     sidebar: [
       '/',
-      '/01-html/',
-      '/01-ejercicios-html/',
-      '/04-desafios/'
       // '/00-markdown/',
-      // '/02-css/',
-      // '/03-javascript/',
+      '/01-html/',
+      '/02-css/',
+      '/03-javascript/',
+      '/01-ejercicios-html/',
+      '/02-ejercicios-css/',
+      '/04-desafios/',
+
     ]
   },
 
