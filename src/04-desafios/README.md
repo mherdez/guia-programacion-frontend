@@ -41,3 +41,4 @@
 
 ### Newbie
 ### [1. Order summary component](https://mherdez.github.io/guia-desafios-frontend-mentor/newbie/newbie-01.html)
+### [2. Stats preview card component](https://mherdez.github.io/guia-desafios-frontend-mentor/newbie/newbie-02.html)
